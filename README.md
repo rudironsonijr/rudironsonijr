@@ -20,7 +20,7 @@ I'm passionate about building distributed systems and Event-Driven Architectures
 * Developing microservices and optimizing systems for high availability and performance.
 
 # How to reach me:
-	•	[LinkedIn](http://linkedin.com/in/rudimar-ronsoni-jr/)
-	•	[e-mail](mailto:rudimar@outlook.com)
+* [LinkedIn](http://linkedin.com/in/rudimar-ronsoni-jr/)
+* [e-mail](mailto:rudimar@outlook.com)
 
 Thanks for stopping by! Feel free to explore my repositories and projects, and don’t hesitate to reach out if you’d like to collaborate.
